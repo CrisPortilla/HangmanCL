@@ -1,0 +1,23 @@
+{
+  "name": "hangmancl",
+  "version": "1.0.0",
+  "description": "Hangman command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrisPortilla/HangmanCL.git"
+  },
+  "author": "Cristian Portilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrisPortilla/HangmanCL/issues"
+  },
+  "homepage": "https://github.com/CrisPortilla/HangmanCL#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "is-letter": "^1.1.1"
+  }
+}

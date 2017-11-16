@@ -1,0 +1,1 @@
+exports.words = ['HTML','CSS','BOOTSTRAP','JAVASCRIPT','JQUERY','FIREBASE','NODEJS','MYSQL','API','Z'];
